@@ -34,13 +34,7 @@ Email Me 👉 ✉️ **guptaop34495@gmail.com** **ayushgupta3706@gmail.com** For
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DEVIL6911&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-![](https://visitcount.itsvg.in/api?id=DEVIL6911&icon=6&color=8)](https://visitcount.itsvg.in)
-
-### 🔝 GitHub Stats
+ 
 
 ![](https://github-readme-stats.vercel.com/api?username=DEVIL6911&show_icons=true&theme=dark)
 
