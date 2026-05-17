@@ -41,7 +41,5 @@ Email Me 👉 ✉️ **guptaop34495@gmail.com** **ayushgupta3706@gmail.com** For
 ![](https://github-readme-stats.vercel.com/api/top-langs/?username=DEVIL6911&layout=compact&theme=dark)
 
 ---
-
-### 👁️ Profile Views
-[![Visitor Count](https://visitcount.itsvg.in/api?id=DEVIL6911&icon=6&color=8)](https://visitcount.itsvg.in)
+ 
  
