@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Ayush Gupta
+#  Hi ! I'm Ayush Gupta
 **A passionate aspring Data Scientist || UI/UX Designer ||  from India**
 
-Email Me 👉 ✉️ **guptaop34495@gmail.com** **ayushgupta3706@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me   **guptaop34495@gmail.com** **ayushgupta3706@gmail.com** For Collaboration/Project or Anything Else. 
 
 -  **I’m currently working on:** Machine Learning
 -  **I’m currently learning:** Deep Learning, Natural Language Processing (NLP), LangChain, LangGraph
